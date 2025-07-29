@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1d6be5b-adf7-491d-b677-1e2906938cec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/ModuleDemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/ModuleDemo/boolean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/ModuleDemo/robot google_search.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/ModuleDemo/test_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/PythonVariableRules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/arguments_in_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/break_and_continue_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/built_in_function_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/class_variable_vs_instance_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/datetime_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/dictionary_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/dictionary_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/exceptions_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/for_loop_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/functions_in_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/inheritence_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/lists_in_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/lists_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/multilevel_inheritence_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/multiple_inheritence_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/operators_in_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/python_classess_objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/python_if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/python_objects-and_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/python_tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/range_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/set_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/sets_in_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/string_formating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/string_slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/strings_in_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/variable_scope_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/while_loop_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/Basics/zip_function_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/DemoElementLocators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/demoexcel.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/demoexcel1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/demofile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/employee.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/multi_sheet.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/multi_sheet1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/multiplication_table.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/myfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/people.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/productreview.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/products.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/read_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/read_xlsx_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/squares.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/squares1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/with_as_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/write_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/write_demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/write_xlsx_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/writedemo1 .txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/writedemo1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/writedemo1.word" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/FILEIODemo/writedemo2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/MyModule/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/MyModule/my_custom_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/DemoElementLocators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_auto_suggest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_browser_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_calenderselection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_checkboxes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_drag_drop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_dropdown_multi_select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_dropdown_single_select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_dynamic_dropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_element_by_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_element_by_tag_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_explicit_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_find_element_by_css_selector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_find_element_by_linktext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_find_element_by_xpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_find_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_get_attribute_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_get_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_hidden_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_iframes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_implicit_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_js_alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_js_execution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_mouse_over.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_multiple_windows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_radio_buttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_right_click_double_click.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_screenshot_capture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_sliders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_static_dropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/demo_webelement_state.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/fake_people.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/fake_people.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/test1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/test2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/test_data_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/testdara.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/testdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/TestDataGeneration/textdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningPython/pythonProject/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python seleniumDemo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python seleniumDemo1/.idea/Python seleniumDemo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python seleniumDemo1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python seleniumDemo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python seleniumDemo1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python seleniumDemo1/LearningSelenium/FirstAutomationTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python seleniumDemo1/LearningSelenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python seleniumDemo1/LearningSelenium/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python seleniumDemo1/LearningSelenium/launchBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python seleniumDemo1/empty browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get-pip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prathi.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "prathikshabraj"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/prathikshabraj/LearningPython.git",
+    "accountId": "468cc14e-c481-404a-bb51-36121b5ea169"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LearningPython/pythonProject/MyModule/Procurement.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2YFR0VJz6Vaoie8lW4EwDBhS7ug" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Procurement.executor": "Run",
+    "Python.Variable.executor": "Run",
+    "Python.arguments_in_python.executor": "Run",
+    "Python.boolean.executor": "Run",
+    "Python.break_and_continue_demo.executor": "Run",
+    "Python.built_in_function_demo.executor": "Run",
+    "Python.class_variable_vs_instance_variable.executor": "Run",
+    "Python.datetime_demo.executor": "Run",
+    "Python.dictionary_demo.executor": "Run",
+    "Python.dictionary_methods.executor": "Run",
+    "Python.exceptions_demo.executor": "Run",
+    "Python.for_loop_demo.executor": "Run",
+    "Python.functions_in_python.executor": "Run",
+    "Python.inheritence_demo.executor": "Run",
+    "Python.lists_in_python.executor": "Run",
+    "Python.lists_method.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.multilevel_inheritence_demo.executor": "Run",
+    "Python.multiple_inheritence_demo.executor": "Run",
+    "Python.my_custom_module.executor": "Run",
+    "Python.operators_in_python.executor": "Run",
+    "Python.python_classess_objects.executor": "Run",
+    "Python.python_if_else.executor": "Run",
+    "Python.python_objects-and_method.executor": "Run",
+    "Python.python_tuples.executor": "Run",
+    "Python.qms_apptest.executor": "Run",
+    "Python.qms_apptest_eox.executor": "Run",
+    "Python.range_demo.executor": "Run",
+    "Python.read_demo.executor": "Run",
+    "Python.read_xlsx_demo.executor": "Run",
+    "Python.set_methods.executor": "Run",
+    "Python.sets_in_python.executor": "Run",
+    "Python.string_formating.executor": "Run",
+    "Python.string_slicing.executor": "Run",
+    "Python.strings_in_python.executor": "Run",
+    "Python.test_data_demo.executor": "Run",
+    "Python.variable_scope_demo.executor": "Run",
+    "Python.while_loop_demo.executor": "Run",
+    "Python.with_as_demo.executor": "Run",
+    "Python.write_demo.executor": "Run",
+    "Python.write_xlsx_demo.executor": "Run",
+    "Python.zip_function_demo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/python selenium/LearningPython",
+    "settings.editor.selected.configurable": "Errors"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python selenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1d6be5b-adf7-491d-b677-1e2906938cec" name="Changes" comment="" />
+      <created>1700119118983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700119118983</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LearningPython/pythonProject/Basics/while_loop_demo.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LearningPython/pythonProject/Basics/python_objects-and_method.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

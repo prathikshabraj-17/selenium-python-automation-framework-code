@@ -1,0 +1,4 @@
+This line is added later.
+What it does:Opens the file example.txt in read mode. Reads the entire content as one string.Closes the file automatically (because of with)..
+What it does:Opens the file example.txt in read mode. Reads the entire content as one string.Closes the file automatically (because of with)..
+What it does:Opens the file example.txt in read mode. Reads the entire content as one string.Closes the file automatically (because of with)..
