@@ -1,0 +1,12 @@
+{
+  "test1": {
+    "departfrom":  "Delhi",
+    "goingto":  "JFG",
+    "departuredate":  "26/10/2025"
+  },
+  "test2": {
+    "departfrom":  "Kol",
+    "goingto":  "Bengaluru",
+    "departuredate":  "01/11/2025"
+  }
+}
