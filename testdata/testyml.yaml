@@ -1,0 +1,9 @@
+test1:
+  departfrom: Del
+  goingto: Bengaluru
+  departuredate: 26/10/2025
+
+test2:
+  departfrom: Kol
+  goingto: Bengaluru
+  departuredate: 01/11/2025
