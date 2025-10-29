@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/sdet 2selenium-python.iml" filepath="$PROJECT_DIR$/.idea/sdet 2selenium-python.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/git sdet.iml" filepath="$PROJECT_DIR$/.idea/git sdet.iml" />
+>>>>>>> 9702575 (sdet commit 2)
     </modules>
   </component>
 </project>
